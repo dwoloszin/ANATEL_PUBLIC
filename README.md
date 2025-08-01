@@ -28,8 +28,11 @@ Processed Data & Output Files
     For raw analysis: Extract docs/export/*
 
 
-
 ☕ You guys can also **buy me a coffee** – coding needs to be waked up! 😄  
 [![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%92%96-lightgrey?logo=github&style=for-the-badge)](https://github.com/sponsors/dwoloszin)
 
+
+PIX QR CODE
+
+[![PIX QR Code](https://github.com/dwoloszin/ANATEL_PUBLIC/raw/main/img/pix.png)](https://github.com/dwoloszin/ANATEL_PUBLIC/blob/main/img/pix.png)
 
