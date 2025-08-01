@@ -26,3 +26,10 @@ Processed Data & Output Files
   For real-time data: Use ANATEL_MASTER.kmz (requires web access)
   For offline/restricted environments: Use docs/export_google/*
   For raw analysis: Extract docs/export/*
+
+
+
+☕ You guys can also **buy me a coffee** – coding needs to be waked up! 😄  
+[![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%92%96-lightgrey?logo=github&style=for-the-badge)](https://github.com/sponsors/dwoloszin)
+
+
