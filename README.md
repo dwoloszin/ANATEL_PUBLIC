@@ -23,9 +23,9 @@ Processed Data & Output Files
   
 🔄 Usage Recommendations
 
-  For real-time data: Use ANATEL_MASTER.kmz (requires web access)
-  For offline/restricted environments: Use docs/export_google/*
-  For raw analysis: Extract docs/export/*
+    For real-time data: Use ANATEL_MASTER.kmz (requires web access)
+    For offline/restricted environments: Use docs/export_google/*
+    For raw analysis: Extract docs/export/*
 
 
 
